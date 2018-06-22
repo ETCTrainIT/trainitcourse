@@ -1,0 +1,101 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "lti_consumer"
+        ], 
+        "catalog_visibility": "none", 
+        "cert_html_view_enabled": true, 
+        "cert_name_long": "Open edX Test course Certificate", 
+        "cert_name_short": "Open edX Test course Certificate", 
+        "certificates": {
+            "certificates": [
+                {
+                    "course_title": "", 
+                    "description": "Description of the certificate", 
+                    "editing": false, 
+                    "id": 232341534, 
+                    "is_active": true, 
+                    "name": "Name of the certificate", 
+                    "signatories": [
+                        {
+                            "certificate": null, 
+                            "id": 1268717881, 
+                            "name": "Satya Nadella ", 
+                            "organization": "Microsoft Corporation ", 
+                            "signature_image_path": "/asset-v1:Microsoft+TEST101x+2017_T2+type@asset+block@sig-satya-nadella-prod.png", 
+                            "title": "Chief Executive Officer"
+                        }, 
+                        {
+                            "certificate": null, 
+                            "id": 1707893085, 
+                            "name": "Bj\u00f6rn Rettig", 
+                            "organization": "Microsoft Corporation ", 
+                            "signature_image_path": "/asset-v1:Microsoft+TEST101x+2017_T2+type@asset+block@sig-Bjorn-prod.png", 
+                            "title": "Senior Director Technical Content "
+                        }
+                    ], 
+                    "version": 1
+                }
+            ]
+        }, 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "Open edX Test course", 
+        "end": "2030-01-02T00:00:00Z", 
+        "enrollment_end": "2030-01-02T00:00:00Z", 
+        "enrollment_start": "2030-01-01T00:00:00Z", 
+        "graceperiod": "", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "en", 
+        "learning_info": [], 
+        "lti_passports": [
+            "microsoft:lpoxa:697E2669B4144569915262F0CDA82447"
+        ], 
+        "minimum_grade_credit": 0.8, 
+        "self_paced": true, 
+        "start": "2030-01-01T00:00:00Z", 
+        "tabs": [
+            {
+                "course_staff_only": false, 
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
+    }
+}

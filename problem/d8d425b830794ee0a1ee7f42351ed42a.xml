@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;This is test question. What is the answer? ||Option A. &lt;&lt;&#10;&#10;(x) Option A&#10;( ) Option B&#10;( ) Option C&#10;&#10;||Option A||" show_reset_button="true" weight="1.0">
+  <multiplechoiceresponse>
+    <label>This is test question. What is the answer? </label>
+    <description>Option A. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Option A</choice>
+      <choice correct="false">Option B</choice>
+      <choice correct="false">Option C</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>Option A</hint>
+  </demandhint>
+</problem>

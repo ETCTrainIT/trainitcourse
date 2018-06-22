@@ -1,0 +1,50 @@
+{
+    "sig-Bjorn-prod.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "TEST101x", 
+            "name": "sig-Bjorn-prod.png", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "2017_T2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "sig-Bjorn-prod.png", 
+        "filename": "asset-v1:Microsoft+TEST101x+2017_T2+type@asset+block@sig-Bjorn-prod.png", 
+        "import_path": "sig-Bjorn-prod.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "TEST101x", 
+            "thumbnail", 
+            "sig-Bjorn-prod-png.jpg", 
+            null
+        ]
+    }, 
+    "sig-satya-nadella-prod.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "TEST101x", 
+            "name": "sig-satya-nadella-prod.png", 
+            "org": "Microsoft", 
+            "revision": null, 
+            "run": "2017_T2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "sig-satya-nadella-prod.png", 
+        "filename": "asset-v1:Microsoft+TEST101x+2017_T2+type@asset+block@sig-satya-nadella-prod.png", 
+        "import_path": "sig-satya-nadella-prod.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Microsoft", 
+            "TEST101x", 
+            "thumbnail", 
+            "sig-satya-nadella-prod-png.jpg", 
+            null
+        ]
+    }
+}
